@@ -1,1 +1,16 @@
-# medicament-website
+# 🏥 Medical Services Website 
+## 🔗 (Live Demo)
+https://rahmaelmorsi.github.io/medicament-website/
+
+## 🛠️ التقنيات المستخدمة (Tech Stack)
+* **HTML5:** لعمل هيكل الموقع (Semantics).
+* **CSS3:** استخدمت فيه:
+    * **Custom Variables:** لتنظيم الألوان (Purple & Gray).
+    * **Flexbox & Grid:** عشان الموقع يكون منسق.
+    * **Media Queries:** عشان الموقع يشتغل على الموبايل (Responsive).
+* **Font Awesome:** للأيقونات الطبية.
+
+## 📝 ميزات الكود اللي كتبته
+- **Smooth Scrolling:** التنقل بين الأقسام بنعومة.
+- **Hover Effects:** تأثيرات تفاعلية على الأزرار (Buttons).
+- **Clean Code:** كود منظم وسهل القراءة.
